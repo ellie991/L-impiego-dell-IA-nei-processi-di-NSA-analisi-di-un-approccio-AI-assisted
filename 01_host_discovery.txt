@@ -1,0 +1,8 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2026-09-08 06:41 PDT
+Nmap scan report for 192.168.64.1
+Host is up (0.0010s latency).
+Nmap scan report for 192.168.64.3
+Host is up (0.0040s latency).
+Nmap scan report for 192.168.64.4
+Host is up (0.00074s latency).
+Nmap done: 256 IP addresses (3 hosts up) scanned in 2.96 seconds

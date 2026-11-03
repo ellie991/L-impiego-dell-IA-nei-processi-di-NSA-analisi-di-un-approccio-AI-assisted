@@ -1,0 +1,29 @@
+------------------------------------------- ---------------------------------
+ Exploit Title                             |  Path
+------------------------------------------- ---------------------------------
+Erfur[01;31m[KtWiki[m[K R1.02b - Local File Inclusion   | php/webapps/5771.txt
+Fa[01;31m[Ktwiki[m[K (fwiki) 1.0 - Remote File Inclusio | php/webapps/11188.txt
+MoinMoin - [01;31m[Ktwiki[m[Kdraw Action Traversal Arbi | linux/remote/26422.rb
+Rabbi[01;31m[KtWiki[m[K - 'title' Cross-Site Scripting  | php/webapps/36693.txt
+[01;31m[KTWiki[m[K - Search Function Arbitrary Command  | php/webapps/16894.rb
+[01;31m[KTWiki[m[K 20030201 - 'search.pm' Remote Comman | cgi/webapps/642.pl
+[01;31m[KTWiki[m[K 4.0.4 - 'configure' Remote Command E | php/webapps/2143.pl
+[01;31m[KTWiki[m[K 4.0.4 - Configure Script Remote Code | php/webapps/2110.pm
+[01;31m[KTWiki[m[K 4.0.x - 'Viewfile' Directory Travers | php/webapps/28495.txt
+[01;31m[KTWiki[m[K 4.2.0 - 'configure' Remote File Disc | cgi/webapps/6269.txt
+[01;31m[KTWiki[m[K 4.2.2 - 'action' Remote Code Executi | cgi/webapps/6509.txt
+[01;31m[KTWiki[m[K 4.x - 'SEARCH' Remote Command Execut | php/webapps/32645.txt
+[01;31m[KTWiki[m[K 4.x - 'URLPARAM' Cross-Site Scriptin | php/webapps/32646.txt
+[01;31m[KTWiki[m[K 5.0 - '/bin/view?rev' Cross-Site Scr | php/webapps/34842.txt
+[01;31m[KTWiki[m[K 5.0 - bin/login Multiple Cross-Site  | php/webapps/34843.txt
+[01;31m[KTWiki[m[K 5.0.1 - 'origurl' Cross-Site Scripti | php/webapps/35761.txt
+[01;31m[KTWiki[m[K 5.0.2 - '/bin/view/Main/Jump?newtopi | php/webapps/36162.txt
+[01;31m[KTWiki[m[K 5.0.2 SlideShowPlugin - Slide Show P | php/webapps/36163.txt
+[01;31m[KTWiki[m[K Debugenableplugins - Remote Code Exe | php/remote/36438.rb
+[01;31m[KTWiki[m[K History [01;31m[KTWiki[m[KUsers - 'rev' Command E | php/webapps/16892.rb
+[01;31m[KTWiki[m[K MAKETEXT - Remote Command Execution  | unix/remote/23579.rb
+[01;31m[KTWiki[m[K [01;31m[KTWiki[m[KUsers - Arbitrary Command Execu | php/webapps/26260.txt
+[01;31m[KTWiki[m[K [01;31m[KTWiki[m[KUsers - INCLUDE Function Arbitr | php/webapps/26302.txt
+------------------------------------------- ---------------------------------
+Shellcodes: No Results
+Papers: No Results

@@ -1,0 +1,14 @@
+------------------------------------------- ---------------------------------
+ Exploit Title                             |  Path
+------------------------------------------- ---------------------------------
+Apache [01;31m[KTomcat[m[K [01;31m[K5.5[m[K.0 < [01;31m[K5.5[m[K.29 / 6.0.0 < 6.0 | multiple/remote/12343.txt
+Apache [01;31m[KTomcat[m[K [01;31m[K5.5[m[K.15 - cal2.jsp Cross-Site | jsp/webapps/30563.txt
+Apache [01;31m[KTomcat[m[K [01;31m[K5.5[m[K.25 - Cross-Site Request  | multiple/webapps/29435.txt
+Apache [01;31m[KTomcat[m[K < [01;31m[K5.5[m[K.17 - Remote Directory  | multiple/remote/2061.txt
+Apache [01;31m[KTomcat[m[K < 6.0.18 - 'utf8' Directory  | multiple/remote/6229.txt
+Apache [01;31m[KTomcat[m[K < 6.0.18 - 'utf8' Directory  | unix/remote/14489.c
+Apache [01;31m[KTomcat[m[K < 9.0.1 (Beta) / < 8.5.23 /  | jsp/webapps/42966.py
+Apache [01;31m[KTomcat[m[K < 9.0.1 (Beta) / < 8.5.23 /  | windows/webapps/42953.txt
+------------------------------------------- ---------------------------------
+Shellcodes: No Results
+Papers: No Results

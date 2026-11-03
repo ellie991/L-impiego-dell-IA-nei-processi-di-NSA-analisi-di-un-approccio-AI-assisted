@@ -1,0 +1,10 @@
+------------------------------------------- ---------------------------------
+ Exploit Title                             |  Path
+------------------------------------------- ---------------------------------
+[01;31m[KSamba[m[K 3.0.10 < 3.3.5 - Format String / Sec | multiple/remote/10095.txt
+[01;31m[KSamba[m[K [01;31m[K3.0.20[m[K < 3.0.25rc3 - 'Username' map  | unix/remote/16320.rb
+[01;31m[KSamba[m[K < [01;31m[K3.0.20[m[K - Remote Heap Overflow      | linux/remote/7701.txt
+[01;31m[KSamba[m[K < 3.6.2 (x86) - Denial of Service (P | linux_x86/dos/36741.py
+------------------------------------------- ---------------------------------
+Shellcodes: No Results
+Papers: No Results

@@ -1,0 +1,26 @@
+------------------------------------------- ---------------------------------
+ Exploit Title                             |  Path
+------------------------------------------- ---------------------------------
+[01;31m[KMySQL[m[K 4.1.18/[01;31m[K5.0[m[K.20 - Local/Remote Informa | linux/remote/1742.c
+[01;31m[KMySQL[m[K 4.1/[01;31m[K5.0[m[K - Authentication Bypass      | multiple/remote/24250.pl
+[01;31m[KMySQL[m[K 4.1/[01;31m[K5.0[m[K - Zero-Length Password Authe | multiple/remote/311.pl
+[01;31m[KMySQL[m[K 4.x/[01;31m[K5.0[m[K (Linux) - User-Defined Funct | linux/local/1518.c
+[01;31m[KMySQL[m[K 4.x/[01;31m[K5.0[m[K (Windows) - User-Defined Fun | windows/remote/3274.txt
+[01;31m[KMySQL[m[K [01;31m[K5.0[m[K.18 - Query Logging Bypass        | linux/remote/27326.txt
+[01;31m[KMySQL[m[K [01;31m[K5.0[m[K.20 - COM_TABLE_DUMP Memory Leak/ | linux/remote/1741.c
+[01;31m[KMySQL[m[K [01;31m[K5.0[m[K.45 - 'Alter' Denial of Service   | multiple/dos/4615.txt
+[01;31m[KMySQL[m[K [01;31m[K5.0[m[K.45 - (Authenticated) COM_CREATE_ | multiple/dos/9085.txt
+[01;31m[KMySQL[m[K [01;31m[K5.0[m[K.75 - 'sql_parse.cc' Multiple For | linux/dos/33077.c
+[01;31m[KMySQL[m[K [01;31m[K5.0[m[K.x - IF Query Handling Remote Den | linux/dos/30020.txt
+[01;31m[KMySQL[m[K [01;31m[K5.0[m[K.x - Single Row SubSelect Remote  | linux/dos/29724.txt
+[01;31m[KMySQL[m[K < 5.6.35 / < 5.7.17 - Integer Overfl | multiple/dos/41954.py
+[01;31m[KMySQL[m[K < 5.6.35 / < 5.7.17 - Integer Overfl | multiple/dos/41954.py
+[01;31m[KMySQL[m[K MaxDB Webtool 7.[01;31m[K5.0[m[K0.23 - Remote Sta | windows/remote/960.c
+Oracle [01;31m[KMySQL[m[K < 5.1.49 - 'DDL' Statements D | linux/dos/34522.txt
+Oracle [01;31m[KMySQL[m[K < 5.1.49 - 'WITH ROLLUP' Deni | multiple/dos/15467.txt
+Oracle [01;31m[KMySQL[m[K < 5.1.49 - Malformed 'BINLOG' | linux/dos/34521.txt
+Oracle [01;31m[KMySQL[m[K < 5.1.50 - Privilege Escalati | multiple/remote/34796.txt
+Symantec Web Gateway [01;31m[K5.0[m[K.3.18 - Blind SQL  | php/webapps/20044.txt
+------------------------------------------- ---------------------------------
+Shellcodes: No Results
+Papers: No Results

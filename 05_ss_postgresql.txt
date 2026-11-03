@@ -1,0 +1,9 @@
+------------------------------------------- ---------------------------------
+ Exploit Title                             |  Path
+------------------------------------------- ---------------------------------
+[01;31m[KPostgreSQL[m[K 8.2/[01;31m[K8.3[m[K/8.4 - UDF for Command E | linux/local/7855.txt
+[01;31m[KPostgreSQL[m[K [01;31m[K8.3[m[K.6 - Conversion Encoding Rem | linux/dos/32849.txt
+[01;31m[KPostgreSQL[m[K [01;31m[K8.3[m[K.6 - Low Cost Function Infor | multiple/local/32847.txt
+------------------------------------------- ---------------------------------
+Shellcodes: No Results
+Papers: No Results

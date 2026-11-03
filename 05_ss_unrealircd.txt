@@ -1,0 +1,9 @@
+------------------------------------------- ---------------------------------
+ Exploit Title                             |  Path
+------------------------------------------- ---------------------------------
+[01;31m[KUnrealIRCd[m[K [01;31m[K3.2.8[m[K.1 - Backdoor Command Exec | linux/remote/16922.rb
+[01;31m[KUnrealIRCd[m[K [01;31m[K3.2.8[m[K.1 - Local Configuration S | windows/dos/18011.txt
+[01;31m[KUnrealIRCd[m[K [01;31m[K3.2.8[m[K.1 - Remote Downloader/Exe | linux/remote/13853.pl
+------------------------------------------- ---------------------------------
+Shellcodes: No Results
+Papers: No Results
